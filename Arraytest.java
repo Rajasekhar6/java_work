@@ -16,6 +16,8 @@ public class Arraytest {
 				{
 					temp[i]=arr1[i];
 					
+					
+					
 				}
 								
 			}
